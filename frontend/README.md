@@ -2,8 +2,8 @@
 
 This is a full-stack project containing:
 
-- **Backend**: [Nodejs]
-- **Frontend**: [React]
+- **Backend**: [Node.js]
+- **Frontend**: [React.js]
 
 ---
 
@@ -11,13 +11,13 @@ This is a full-stack project containing:
 
 ```
 /project-root
-  ├── /backend       ← Nodejs backend
-  └── /frontend      ← React frontend
+  ├── /backend       ← Node.js backend
+  └── /frontend      ← React.js frontend
 ```
 
 ---
 
-## 🔧 Backend Setup (Nodejs)
+## 🔧 Backend Setup (Node.js)
 
 1. Navigate to the backend directory:
 
@@ -47,7 +47,7 @@ This is a full-stack project containing:
 
 ---
 
-## 💻 Frontend Setup (React)
+## 💻 Frontend Setup (React.js)
 
 1. Navigate to the frontend directory:
 
