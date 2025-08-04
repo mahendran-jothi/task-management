@@ -1,0 +1,14 @@
+{
+  "local": {
+    "uri": "mongodb+srv://task-user:task@task.ophb92f.mongodb.net/?retryWrites=true&w=majority&appName=task",
+    "database": "task-management"
+  },
+  "development": {
+    "uri": "mongodb+srv://task-user:task@task.ophb92f.mongodb.net/?retryWrites=true&w=majority&appName=task",
+    "database": "task-management"
+  },
+  "production": {
+    "uri": "mongodb+srv://task-user:task@task.ophb92f.mongodb.net/?retryWrites=true&w=majority&appName=task",
+    "database": "task-management"
+  }
+}
