@@ -4,7 +4,6 @@ This is a full-stack project containing:
 
 - **Backend**: [Node.js]
 - **Frontend**: [React.js]
-
 ---
 
 ## 📁 Project Structure
@@ -14,7 +13,6 @@ This is a full-stack project containing:
   ├── /backend       ← Node.js backend
   └── /frontend      ← React.js frontend
 ```
-
 ---
 
 ## 🔧 Backend Setup (Node.js)
@@ -31,7 +29,7 @@ This is a full-stack project containing:
    npm install
    ```
 
-3. Configuration is handled using TypeScript config files:
+3. Configuration is handled using JavaScript config files:
 
    - **MongoDB URI** is set in `config/config.json`:
 
@@ -74,7 +72,6 @@ This is a full-stack project containing:
    ```
 
    The frontend will be running at: `http://localhost:5173`
-
 ---
 
 ## ✅ Local URLs
